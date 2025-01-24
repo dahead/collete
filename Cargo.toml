@@ -1,0 +1,9 @@
+[package]
+name = "collete"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+sysinfo = "0.33.1"
+termion = "4.0.3"
+users = "0.11"
